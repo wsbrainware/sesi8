@@ -1,0 +1,7 @@
+{
+  "name": "sesi8",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
